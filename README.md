@@ -14,5 +14,5 @@ Thanks to the team over at [monkeytype](monkeytype.com) for the great themes.
 You can find the themes at [monkeytype](monkeytype.com) under serika and serika dark.
 
 # Bugs?
-If you find an issue, make a disscusion, and I'll be sure to have a look!
+If you find an issue, make an issue, and I'll be sure to have a look!
 You can also find me on the obsidian community forums as Warrobot10.
