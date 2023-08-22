@@ -10,8 +10,7 @@ Now in light mode!
 ![Serika light mode](https://github.com/Warrobot10/Serika-for-obsidian/assets/132307750/795b8872-3c6f-44d8-b313-505d3b73f626)
 
 # Credits
-Thanks to the team over at [monkeytype](monkeytype.com) for the great themes.
-You can find the themes at [monkeytype](monkeytype.com) under serika and serika dark.
+Thanks to the team over at monkeytype for the great themes.
 
 # Bugs?
 If you find an issue, make an issue, and I'll be sure to have a look!
