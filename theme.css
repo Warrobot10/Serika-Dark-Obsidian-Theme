@@ -1,4 +1,7 @@
 body {
+	--font-monospace-theme: "Roboto Mono *", monospace;
+	--font-text-theme: "Roboto Mono *", monospace;
+	--font-interface-theme: "Roboto Mono *", monospace;
 	--radius-s: 0px;
 	--radius-m: 0px;
 	--radius-l: 0px;
@@ -15,6 +18,10 @@ body {
 	--accent-h: 50;
 	--accent-s: 80%;
 	--accent-l: 55%;
+}
+
+:root {
+	--version: "You are using serika v1.0.0 \a\ If you find any issues, make a discussion at the serika github.\a\ github.com/serika"
 }
 
 .workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
@@ -38,4 +45,11 @@ svg * {
 
 .menu-separator {
 	margin: var(--size-2-1) calc(var(--size-2-1) * -1);
+}
+
+.theme-light {
+	--ribbon-background: #e1e1e3;
+	--ribbon-background-collapsed: #e1e1e3;
+	--status-bar-background: #e1e1e3c0;
+	--icon-color: #e2b714;
 }
