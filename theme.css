@@ -20,10 +20,6 @@ body {
 	--accent-l: 55%;
 }
 
-:root {
-	--version: "You are using serika v1.0.0 \a\ If you find any issues, make a discussion at the serika github.\a\ github.com/serika"
-}
-
 .workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
 	display: none;
 }
