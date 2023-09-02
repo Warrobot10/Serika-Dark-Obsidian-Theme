@@ -16,3 +16,7 @@ Go check it out and show monkeytype some love!
 # Bugs?
 If you find an issue, make an issue, and I'll be sure to have a look!
 You can also find me on the obsidian community forums as Warrobot10.
+
+# Feedback
+The serika for obsidian project is now seeking feedback, so we can improve the theme as a whole.
+If you have any suggestions or potential improvements, that you would like to see in a future update, please use [this](https://forms.gle/daSz9Qk7FGbNMzVt9) form.
